@@ -1,0 +1,26 @@
+{
+  "schema": "dev.woia.provider-manifest/v1",
+  "version": "0.5.0",
+  "authoring_profile": "thin",
+  "department": "software",
+  "capability": "requirements",
+  "skill": "requirements",
+  "source_lineage": {
+    "repository": "Turpial-AI-Academy/requirements-agent-plugin",
+    "version": "1.0.1",
+    "commit": "c683b79a7ebdcf56c737896354eb39c27cb7db74"
+  },
+  "migrated_portable_paths": [
+    "skills/requirements/SKILL.md",
+    "skills/requirements/assets/README.md",
+    "skills/requirements/assets/requirements-document.template.md",
+    "skills/requirements/assets/traceability-matrix.template.md",
+    "skills/requirements/references/ACCEPTANCE_CRITERIA.md",
+    "skills/requirements/references/DISCOVERY_AND_SCOPE.md",
+    "skills/requirements/references/QUALITY_CHECKLIST.md",
+    "skills/requirements/references/README.md",
+    "skills/requirements/references/REQUIREMENTS_STANDARD.md",
+    "skills/requirements/references/TRACEABILITY_AND_CHANGE.md",
+    "skills/requirements/references/USER_STORIES.md"
+  ]
+}
