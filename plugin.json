@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "woia-software-requirements",
-  "version": "0.5.1",
+  "version": "0.5.6",
   "description": "Reusable requirements engineering capability for turning discovery and business context into implementable, verifiable software requirements.",
   "author": {
     "name": "Turpial AI Academy",

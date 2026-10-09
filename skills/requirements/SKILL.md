@@ -5,7 +5,7 @@ license: MIT
 compatibility: Works with software projects across domains and delivery styles; output depth depends on available discovery, stakeholder, business-rule, product, and repository evidence.
 metadata:
   author: Turpial AI Academy
-  version: "0.5.1"
+  version: "0.5.6"
 ---
 
 # requirements
